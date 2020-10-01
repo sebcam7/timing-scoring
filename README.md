@@ -1,5 +1,3 @@
-# timing-scoring
-
 ## Setup Environment
 
 #### Dependencies:
