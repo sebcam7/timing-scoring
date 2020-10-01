@@ -1,7 +1,11 @@
 {
-	"name": "timing-dashboard",
+	"name": "timing-scoring",
 	"version": "1.0.0",
 	"description": "",
+	"repository": {
+		"type" : "git",
+		"url" : "https://github.com/sebcam7/timing-scoring.git"
+	}
 	"main": "src/main.js",
 	"scripts": {
 		"start": "electron ."
