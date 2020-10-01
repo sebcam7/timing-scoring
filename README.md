@@ -1,6 +1,6 @@
 ## Setup Environment
 
-#### Dependencies:
+#### Download and Install:
 - [Node.js](https://nodejs.org/en/download)
 
 #### Download Repository
